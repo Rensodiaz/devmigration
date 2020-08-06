@@ -115,10 +115,10 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://facebook.com", icon = "fab fa-facebook"},
-      { link = "https://twitter.com/mytwitter", icon = "fab fa-twitter" },
+      { link = "https://www.facebook.com/devmigration", icon = "fab fa-facebook"},
+      { link = "https://twitter.com/devmigration", icon = "fab fa-twitter" },
       { link = "https://github.com/rensodiaz", icon = "fab fa-github" },
-      { link = "https://github.com/rensodiaz", icon = "fab fa-instagram"}
+      { link = "https://www.instagram.com/devmigration", icon = "fab fa-instagram"}
     ]
 
     # credits line configuration
