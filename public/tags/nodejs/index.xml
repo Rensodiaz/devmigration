@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nodejs on DevMigration</title>
-    <link>https://devmigration.onrender.com/tags/nodejs/</link>
+    <link>https://wwww.devmigration.com/tags/nodejs/</link>
     <description>Recent content in Nodejs on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
     
-	<atom:link href="https://devmigration.onrender.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wwww.devmigration.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Express for biginners (part 1)</title>
-      <link>https://devmigration.onrender.com/article/express-first-app/</link>
+      <link>https://wwww.devmigration.com/article/express-first-app/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/article/express-first-app/</guid>
+      <guid>https://wwww.devmigration.com/article/express-first-app/</guid>
       <description>Welcome to the first part of our journey, this is going to be a small series with multiple posts to help you dive right into Express framework and Node.js. Don’t worry if you don’t have any previous experience with Express or Node.js. This tutorial is designed with that in mind and will try to be as clear as possible. We will cover the backend logic only in this series and in the future we may also create another small tutorial on how to integrate a view engine like Pug, Ejs, etc.</description>
     </item>
     
