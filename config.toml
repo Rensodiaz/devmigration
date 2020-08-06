@@ -1,5 +1,5 @@
 title = "DevMigration"
-baseURL = "https://wwww.devmigration.com"
+baseURL = "https://devmigration.onrender.com"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
