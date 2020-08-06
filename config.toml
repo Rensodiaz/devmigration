@@ -46,7 +46,7 @@ disqusShortname = ""
     algolia_currentLanguageOnly = true
 
   # Enable / Disable comments on the articles via commento
-  commentoJsURL = "https://commento.lednerb.de/js/commento.js"
+  # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
