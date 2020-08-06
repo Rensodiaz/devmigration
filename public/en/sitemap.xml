@@ -3,297 +3,297 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/article/</loc>
+    <loc>https://www.devmigration.com/article/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/article/"
+                href="https://www.devmigration.com/es/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/article/"
+                href="https://www.devmigration.com/article/"
                 />
   </url>
   
   <url>
-    <loc>/author/</loc>
+    <loc>https://www.devmigration.com/author/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/"
+                href="https://www.devmigration.com/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/"
+                href="https://www.devmigration.com/author/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.devmigration.com/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://www.devmigration.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://www.devmigration.com/"
                 />
   </url>
   
   <url>
-    <loc>/tags/ejs/</loc>
+    <loc>https://www.devmigration.com/tags/ejs/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/ejs/"
+                href="https://www.devmigration.com/es/tags/ejs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/ejs/"
+                href="https://www.devmigration.com/tags/ejs/"
                 />
   </url>
   
   <url>
-    <loc>/tags/express/</loc>
+    <loc>https://www.devmigration.com/tags/express/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/express/"
+                href="https://www.devmigration.com/es/tags/express/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/express/"
+                href="https://www.devmigration.com/tags/express/"
                 />
   </url>
   
   <url>
-    <loc>/article/express-first-app/</loc>
+    <loc>https://www.devmigration.com/article/express-first-app/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/article/express-first-app/"
+                href="https://www.devmigration.com/es/article/express-first-app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/article/express-first-app/"
+                href="https://www.devmigration.com/article/express-first-app/"
                 />
   </url>
   
   <url>
-    <loc>/tags/jwt/</loc>
+    <loc>https://www.devmigration.com/tags/jwt/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/jwt/"
+                href="https://www.devmigration.com/es/tags/jwt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/jwt/"
+                href="https://www.devmigration.com/tags/jwt/"
                 />
   </url>
   
   <url>
-    <loc>/tags/mongodb/</loc>
+    <loc>https://www.devmigration.com/tags/mongodb/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/mongodb/"
+                href="https://www.devmigration.com/es/tags/mongodb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/mongodb/"
+                href="https://www.devmigration.com/tags/mongodb/"
                 />
   </url>
   
   <url>
-    <loc>/tags/nodejs/</loc>
+    <loc>https://www.devmigration.com/tags/nodejs/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/nodejs/"
+                href="https://www.devmigration.com/es/tags/nodejs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/nodejs/"
+                href="https://www.devmigration.com/tags/nodejs/"
                 />
   </url>
   
   <url>
-    <loc>/tags/postgresql/</loc>
+    <loc>https://www.devmigration.com/tags/postgresql/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/postgresql/"
+                href="https://www.devmigration.com/es/tags/postgresql/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/postgresql/"
+                href="https://www.devmigration.com/tags/postgresql/"
                 />
   </url>
   
   <url>
-    <loc>/tags/pug/</loc>
+    <loc>https://www.devmigration.com/tags/pug/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/pug/"
+                href="https://www.devmigration.com/es/tags/pug/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/pug/"
+                href="https://www.devmigration.com/tags/pug/"
                 />
   </url>
   
   <url>
-    <loc>/author/renso-diaz/</loc>
+    <loc>https://www.devmigration.com/author/renso-diaz/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/renso-diaz/"
+                href="https://www.devmigration.com/es/author/renso-diaz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/renso-diaz/"
+                href="https://www.devmigration.com/author/renso-diaz/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.devmigration.com/tags/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://www.devmigration.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://www.devmigration.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>/page/about-me/</loc>
+    <loc>https://www.devmigration.com/page/about-me/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/page/about-me/"
+                href="https://www.devmigration.com/es/page/about-me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/about-me/"
+                href="https://www.devmigration.com/page/about-me/"
                 />
   </url>
   
   <url>
-    <loc>/tags/android/</loc>
+    <loc>https://www.devmigration.com/tags/android/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/android/"
+                href="https://www.devmigration.com/es/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/android/"
+                href="https://www.devmigration.com/tags/android/"
                 />
   </url>
   
   <url>
-    <loc>/tags/developer/</loc>
+    <loc>https://www.devmigration.com/tags/developer/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/page/</loc>
+    <loc>https://www.devmigration.com/page/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/page/"
+                href="https://www.devmigration.com/es/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/"
+                href="https://www.devmigration.com/page/"
                 />
   </url>
   
   <url>
-    <loc>/tags/technology/</loc>
+    <loc>https://www.devmigration.com/tags/technology/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/web/</loc>
+    <loc>https://www.devmigration.com/tags/web/</loc>
     <lastmod>2020-07-21T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/web/"
+                href="https://www.devmigration.com/es/tags/web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/web/"
+                href="https://www.devmigration.com/tags/web/"
                 />
   </url>
   
   <url>
-    <loc>/page/github/</loc>
+    <loc>https://www.devmigration.com/page/github/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/page/github/"
+                href="https://www.devmigration.com/es/page/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/github/"
+                href="https://www.devmigration.com/page/github/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.devmigration.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://www.devmigration.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://www.devmigration.com/categories/"
                 />
   </url>
   

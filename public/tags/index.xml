@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DevMigration</title>
-    <link>/tags/</link>
+    <link>https://www.devmigration.com/tags/</link>
     <description>Recent content in Tags on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.devmigration.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ejs</title>
-      <link>/tags/ejs/</link>
+      <link>https://www.devmigration.com/tags/ejs/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/ejs/</guid>
+      <guid>https://www.devmigration.com/tags/ejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>express</title>
-      <link>/tags/express/</link>
+      <link>https://www.devmigration.com/tags/express/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/express/</guid>
+      <guid>https://www.devmigration.com/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JWT</title>
-      <link>/tags/jwt/</link>
+      <link>https://www.devmigration.com/tags/jwt/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/jwt/</guid>
+      <guid>https://www.devmigration.com/tags/jwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mongodb</title>
-      <link>/tags/mongodb/</link>
+      <link>https://www.devmigration.com/tags/mongodb/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/mongodb/</guid>
+      <guid>https://www.devmigration.com/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nodejs</title>
-      <link>/tags/nodejs/</link>
+      <link>https://www.devmigration.com/tags/nodejs/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/nodejs/</guid>
+      <guid>https://www.devmigration.com/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgreSQL</title>
-      <link>/tags/postgresql/</link>
+      <link>https://www.devmigration.com/tags/postgresql/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/postgresql/</guid>
+      <guid>https://www.devmigration.com/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pug</title>
-      <link>/tags/pug/</link>
+      <link>https://www.devmigration.com/tags/pug/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>/tags/pug/</guid>
+      <guid>https://www.devmigration.com/tags/pug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>https://www.devmigration.com/tags/android/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>https://www.devmigration.com/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developer</title>
-      <link>/tags/developer/</link>
+      <link>https://www.devmigration.com/tags/developer/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>/tags/developer/</guid>
+      <guid>https://www.devmigration.com/tags/developer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>/tags/technology/</link>
+      <link>https://www.devmigration.com/tags/technology/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>/tags/technology/</guid>
+      <guid>https://www.devmigration.com/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>/tags/web/</link>
+      <link>https://www.devmigration.com/tags/web/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>https://www.devmigration.com/tags/web/</guid>
       <description></description>
     </item>
     
