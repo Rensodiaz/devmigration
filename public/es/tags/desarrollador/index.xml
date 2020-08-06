@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desarrollador on DevMigration</title>
-    <link>https://www.devmigration.onrender.com/es/tags/desarrollador/</link>
+    <link>https://devmigration.onrender.com/es/tags/desarrollador/</link>
     <description>Recent content in Desarrollador on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 21 Jul 2020 13:18:45 +0100</lastBuildDate>
     
-	<atom:link href="https://www.devmigration.onrender.com/es/tags/desarrollador/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devmigration.onrender.com/es/tags/desarrollador/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sobre mi</title>
-      <link>https://www.devmigration.onrender.com/es/page/about-me/</link>
+      <link>https://devmigration.onrender.com/es/page/about-me/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://www.devmigration.onrender.com/es/page/about-me/</guid>
+      <guid>https://devmigration.onrender.com/es/page/about-me/</guid>
       <description>Desarrollador, gamer. Me gusta leer y aprender diferentes technologias y ideas de desarrollo, esa es la razon por la cual este blog fue creado. Si tienes algunas preguntas sobre los topicos tratados en el blog y necesitas ayuda eviame un email o excribe un comentario. Aqui les dejos algunos de mis projectos personales entre otros que e tenido el placer de contribuir.
   Applicaciones nativas para Android:
  Quick bills reminder Today I learn    Applicaciones para la web:</description>
