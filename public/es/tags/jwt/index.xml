@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JWT on DevMigration</title>
-    <link>http://wwww.devmigration.com/es/tags/jwt/</link>
+    <link>https://devmigration.onrender.com/es/tags/jwt/</link>
     <description>Recent content in JWT on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
     
-	<atom:link href="http://wwww.devmigration.com/es/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devmigration.onrender.com/es/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Express para principiantes (parte 1)</title>
-      <link>http://wwww.devmigration.com/es/article/express-first-app/</link>
+      <link>https://devmigration.onrender.com/es/article/express-first-app/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>http://wwww.devmigration.com/es/article/express-first-app/</guid>
+      <guid>https://devmigration.onrender.com/es/article/express-first-app/</guid>
       <description>Bienvenido a la primera parte de nuestra jornada, este capítulo inicial es el primero de una serie, en la cual trataremos y abundaremos sobre Express framework y Node.js. Si no tienes mucho conocimiento sobre Express framework o Node.js no te preocupes esta serie se diseñó tomando en cuenta esas preocupaciones. En esta serie cubriremos muchos de los aspectos del backend solamente. En el futuro trataremos de crear otros tutoriales para enseñar cómo trabajar express y sus soportes para manejadores de vistas como, Pug, Ejs, etc.</description>
     </item>
     
