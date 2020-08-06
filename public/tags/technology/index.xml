@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology on DevMigration</title>
-    <link>https://devmigration.onrender.com/tags/technology/</link>
+    <link>https://www.devmigration.com/tags/technology/</link>
     <description>Recent content in technology on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 21 Jul 2020 13:18:45 +0100</lastBuildDate>
     
-	<atom:link href="https://devmigration.onrender.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.devmigration.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://devmigration.onrender.com/page/about-me/</link>
+      <link>https://www.devmigration.com/page/about-me/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://devmigration.onrender.com/page/about-me/</guid>
+      <guid>https://www.devmigration.com/page/about-me/</guid>
       <description>Developer, gamer enjoying what I like, that is the idea on why this blog was made. If you have any questions about any of the post in this blog and would like some help send me an email or post your comments. Here are some of my personals projects and others that I&amp;rsquo;ve had the pleasure to contributed.
   Native Android applications:
  Quick bills reminder Today I learn    built-in integration for the powerful</description>

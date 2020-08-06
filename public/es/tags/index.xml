@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DevMigration</title>
-    <link>https://devmigration.onrender.com/es/tags/</link>
+    <link>https://www.devmigration.com/es/tags/</link>
     <description>Recent content in Tags on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
     
-	<atom:link href="https://devmigration.onrender.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.devmigration.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ejs</title>
-      <link>https://devmigration.onrender.com/es/tags/ejs/</link>
+      <link>https://www.devmigration.com/es/tags/ejs/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/ejs/</guid>
+      <guid>https://www.devmigration.com/es/tags/ejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>express</title>
-      <link>https://devmigration.onrender.com/es/tags/express/</link>
+      <link>https://www.devmigration.com/es/tags/express/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/express/</guid>
+      <guid>https://www.devmigration.com/es/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JWT</title>
-      <link>https://devmigration.onrender.com/es/tags/jwt/</link>
+      <link>https://www.devmigration.com/es/tags/jwt/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/jwt/</guid>
+      <guid>https://www.devmigration.com/es/tags/jwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mongodb</title>
-      <link>https://devmigration.onrender.com/es/tags/mongodb/</link>
+      <link>https://www.devmigration.com/es/tags/mongodb/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/mongodb/</guid>
+      <guid>https://www.devmigration.com/es/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nodejs</title>
-      <link>https://devmigration.onrender.com/es/tags/nodejs/</link>
+      <link>https://www.devmigration.com/es/tags/nodejs/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/nodejs/</guid>
+      <guid>https://www.devmigration.com/es/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgreSQL</title>
-      <link>https://devmigration.onrender.com/es/tags/postgresql/</link>
+      <link>https://www.devmigration.com/es/tags/postgresql/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/postgresql/</guid>
+      <guid>https://www.devmigration.com/es/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pug</title>
-      <link>https://devmigration.onrender.com/es/tags/pug/</link>
+      <link>https://www.devmigration.com/es/tags/pug/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/pug/</guid>
+      <guid>https://www.devmigration.com/es/tags/pug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://devmigration.onrender.com/es/tags/android/</link>
+      <link>https://www.devmigration.com/es/tags/android/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/android/</guid>
+      <guid>https://www.devmigration.com/es/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desarrollador</title>
-      <link>https://devmigration.onrender.com/es/tags/desarrollador/</link>
+      <link>https://www.devmigration.com/es/tags/desarrollador/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/desarrollador/</guid>
+      <guid>https://www.devmigration.com/es/tags/desarrollador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technologia</title>
-      <link>https://devmigration.onrender.com/es/tags/technologia/</link>
+      <link>https://www.devmigration.com/es/tags/technologia/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/technologia/</guid>
+      <guid>https://www.devmigration.com/es/tags/technologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>https://devmigration.onrender.com/es/tags/web/</link>
+      <link>https://www.devmigration.com/es/tags/web/</link>
       <pubDate>Tue, 21 Jul 2020 13:18:45 +0100</pubDate>
       
-      <guid>https://devmigration.onrender.com/es/tags/web/</guid>
+      <guid>https://www.devmigration.com/es/tags/web/</guid>
       <description></description>
     </item>
     
