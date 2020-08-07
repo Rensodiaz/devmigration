@@ -12,9 +12,5 @@ Desarrollador, gamer. Me gusta leer y aprender diferentes technologias y ideas d
     - [`Quick bills reminder`](https://some.com)
     - [`Today I learn`](https://some.com)
 
-- Applicaciones para la web:
-    - Some website.
-
-
 
 **[Mas informacion sobre otros proyectos en Github](https://github.com/rensodiaz)**

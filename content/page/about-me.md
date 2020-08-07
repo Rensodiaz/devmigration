@@ -12,7 +12,5 @@ Developer, gamer enjoying what I like, that is the idea on why this blog was mad
     - [`Quick bills reminder`](https://some.com)
     - [`Today I learn`](https://some.com)
 
-- built-in integration for the powerful 
-    - Some website
 
 **[Further information about other projects visit Github](https://github.com/rensodiaz)**
