@@ -12,7 +12,7 @@ DefaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = ""
+disqusShortname = "https://disqus.com/by/devmigrationdev/"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
@@ -124,7 +124,7 @@ disqusShortname = ""
     # credits line configuration
     copyrightBy = "by Renso Diaz"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2019"
+    copyrightYearOverride = "2020"
     copyrightUrl = "https://github.com/rensodiaz"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
