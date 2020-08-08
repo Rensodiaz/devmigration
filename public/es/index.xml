@@ -4,10 +4,22 @@
     <link>https://www.devmigration.com/es/</link>
     <description>Recent content on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 23:02:54 -0400</lastBuildDate>
     
         <atom:link href="https://www.devmigration.com/es/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agregando identidad con favicon a nuestra aplicación web</title>
+      <link>https://www.devmigration.com/es/article/change-fav-icon/</link>
+      <pubDate>Thu, 06 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/article/change-fav-icon/</guid>
+      <description>Favicon no es muy notable pero si eres como yo, te daras cuenta de que resalta bastante cuando tienes muchos tabs abiertos en tu browser. Algunos frameworks como Angular ya vienen con favicon activado pero que tal si queremos cambiarlo por nuestro propio icono.
+Bueno no busques mas vamos a cubrir los detalles rápido y sencillo:
+ HTML y Angular 9+.  HTML y Angular 9+
+Para el propósito de este artículo ya e bajado el icono que usare pero si no tienes un icono no te preocupes, puedes descargar uno gratis en este site Font-Awesome.</description>
+    </item>
     
     <item>
       <title>Express para principiantes (parte 1)</title>

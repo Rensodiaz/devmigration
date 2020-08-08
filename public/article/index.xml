@@ -5,10 +5,20 @@
     <link>https://www.devmigration.com/article/</link>
     <description>Recent content on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jul 2020 23:02:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 23:02:54 -0400</lastBuildDate>
     
 	<atom:link href="https://www.devmigration.com/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Favicon, adding identity to your web application</title>
+      <link>https://www.devmigration.com/article/change-fav-icon/</link>
+      <pubDate>Thu, 06 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/article/change-fav-icon/</guid>
+      <description>Favicon is not very noticeable at first but if you are like me, it will stand out when you have a lot of tabs open in your browser. Frameworks like Angular come with their brand icon by default already but what about if we want to change it with our own icon.
+Well look not further we will go into the details on how to do it step by step:</description>
+    </item>
     
     <item>
       <title>Express for biginners (part 1)</title>

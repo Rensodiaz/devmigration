@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.devmigration.com/article/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,23 @@
   </url>
   
   <url>
+    <loc>https://www.devmigration.com/tags/angular/</loc>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/angular/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/angular/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.devmigration.com/author/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -35,7 +50,7 @@
   
   <url>
     <loc>https://www.devmigration.com/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -45,6 +60,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/favicon/</loc>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/favicon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/favicon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/article/change-fav-icon/</loc>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/article/change-fav-icon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/article/change-fav-icon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/author/renso-diaz/</loc>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/author/renso-diaz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/author/renso-diaz/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/</loc>
+    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/"
                 />
   </url>
   
@@ -165,36 +240,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/tags/pug/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/author/renso-diaz/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/author/renso-diaz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/author/renso-diaz/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/tags/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/tags/"
                 />
   </url>
   
