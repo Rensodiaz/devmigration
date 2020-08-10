@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://www.devmigration.com/es/categories/enlaces/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.devmigration.com/es/article/express-file-structure/</loc>
     <lastmod>2020-08-09T23:02:54-04:00</lastmod>
     <xhtml:link
@@ -139,21 +144,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.devmigration.com/es/tags/fastify/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/es/categories/link/</loc>
-    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/categories/link/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/categories/link/"
                 />
   </url>
   

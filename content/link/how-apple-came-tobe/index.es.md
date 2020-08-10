@@ -3,7 +3,7 @@ title: "EL NACIMIENTO DE APPLE"
 date: 2020-08-09T23:02:54-04:00
 draft: false
 
-categories: ['link']
+categories: ['Enlaces']
 tags: ['Apple']
 
 # Set your external url
