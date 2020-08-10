@@ -5,10 +5,64 @@
     <link>https://www.devmigration.com/es/tags/</link>
     <description>Recent content in Tags on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Aug 2020 23:02:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 23:02:54 -0400</lastBuildDate>
     
 	<atom:link href="https://www.devmigration.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apple</title>
+      <link>https://www.devmigration.com/es/tags/apple/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>express</title>
+      <link>https://www.devmigration.com/es/tags/express/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastify</title>
+      <link>https://www.devmigration.com/es/tags/fastify/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/fastify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>https://www.devmigration.com/es/tags/mvc/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>https://www.devmigration.com/es/tags/nodejs/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restify</title>
+      <link>https://www.devmigration.com/es/tags/restify/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/es/tags/restify/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angular</title>
@@ -38,15 +92,6 @@
     </item>
     
     <item>
-      <title>express</title>
-      <link>https://www.devmigration.com/es/tags/express/</link>
-      <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
-      
-      <guid>https://www.devmigration.com/es/tags/express/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JWT</title>
       <link>https://www.devmigration.com/es/tags/jwt/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
@@ -61,15 +106,6 @@
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       
       <guid>https://www.devmigration.com/es/tags/mongodb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nodejs</title>
-      <link>https://www.devmigration.com/es/tags/nodejs/</link>
-      <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
-      
-      <guid>https://www.devmigration.com/es/tags/nodejs/</guid>
       <description></description>
     </item>
     

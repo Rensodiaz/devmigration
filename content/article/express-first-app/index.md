@@ -1,5 +1,5 @@
 ---
-title: "Express for biginners (part 1)"
+title: "Express for beginners (part 1)"
 date: 2020-07-30T23:02:54-04:00
 author: "Renso Diaz"
 draft: false
@@ -7,6 +7,8 @@ draft: false
 tags: ['express', 'Nodejs', 'Pug', 'Ejs', 'JWT', 'Mongodb', 'postgreSQL']
 
 noSummary: false
+
+categories: ['Articles']
 
 resizeImages: false
 ---
@@ -58,6 +60,11 @@ app.js or index.js
 Initialize your application using the npm(node package manager), on the entry file option select the name of the file from the step above.
 ```
 npm init
+```
+
+Open the **package json** file and add the following line inside the **scripts** section:
+```
+“start”: “node index.js”
 ```
 
 **Install express**

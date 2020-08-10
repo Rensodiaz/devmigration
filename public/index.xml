@@ -4,10 +4,29 @@
     <link>https://www.devmigration.com/</link>
     <description>Recent content on DevMigration</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Aug 2020 23:02:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 23:02:54 -0400</lastBuildDate>
     
         <atom:link href="https://www.devmigration.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Express file structure (part 2)</title>
+      <link>https://www.devmigration.com/article/express-file-structure/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/article/express-file-structure/</guid>
+      <description>Welcome back to part two of our Express tutorial, in this part we are going to talk about express file structure and what exactly I mean by file structure. Also we will go over how to create a configuration file and use it to change to different environments of development.
+Express like many other NodeJS backend frameworks like restify, fastify, etc. Don’t really come with a file structure that we have to follow, you can structure your backend application any way you like but for the purpose of this journey we will use a MVC design pattern.</description>
+    </item>
+    
+    <item>
+      <title>HOW APPLE CAME TO BE</title>
+      <link>https://www.devmigration.com/link/how-apple-came-tobe/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/link/how-apple-came-tobe/</guid>
+      <description>By Stephen Wozniak.</description>
+    </item>
     
     <item>
       <title>Favicon, adding identity to your web application</title>
@@ -20,7 +39,7 @@ Well look not further we will go into the details on how to do it step by step:<
     </item>
     
     <item>
-      <title>Express for biginners (part 1)</title>
+      <title>Express for beginners (part 1)</title>
       <link>https://www.devmigration.com/article/express-first-app/</link>
       <pubDate>Thu, 30 Jul 2020 23:02:54 -0400</pubDate>
       

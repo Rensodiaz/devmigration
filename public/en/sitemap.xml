@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.devmigration.com/article/</loc>
-    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -15,6 +15,236 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/article/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/apple/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/apple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/apple/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/categories/articles/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/author/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/categories/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/express/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/express/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/express/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/article/express-file-structure/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/article/express-file-structure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/article/express-file-structure/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/fastify/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/fastify/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/fastify/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/link/how-apple-came-tobe/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/link/how-apple-came-tobe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/link/how-apple-came-tobe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/categories/link/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/categories/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/categories/link/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/link/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/link/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/mvc/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/mvc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/mvc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/nodejs/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/nodejs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/nodejs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/author/renso-diaz/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/author/renso-diaz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/author/renso-diaz/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/restify/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/restify/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/restify/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.devmigration.com/tags/</loc>
+    <lastmod>2020-08-09T23:02:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.devmigration.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.devmigration.com/tags/"
                 />
   </url>
   
@@ -30,36 +260,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/tags/angular/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/author/</loc>
-    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/</loc>
-    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/"
                 />
   </url>
   
@@ -94,36 +294,6 @@
   </url>
   
   <url>
-    <loc>https://www.devmigration.com/author/renso-diaz/</loc>
-    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/author/renso-diaz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/author/renso-diaz/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/tags/</loc>
-    <lastmod>2020-08-06T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.devmigration.com/tags/ejs/</loc>
     <lastmod>2020-07-30T23:02:54-04:00</lastmod>
     <xhtml:link
@@ -135,21 +305,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/tags/ejs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/tags/express/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/tags/express/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/tags/express/"
                 />
   </url>
   
@@ -195,21 +350,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/tags/mongodb/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/tags/nodejs/</loc>
-    <lastmod>2020-07-30T23:02:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/tags/nodejs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/tags/nodejs/"
                 />
   </url>
   
@@ -325,20 +465,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.devmigration.com/page/github/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.devmigration.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.devmigration.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.devmigration.com/categories/"
                 />
   </url>
   

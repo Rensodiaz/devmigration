@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fastify on DevMigration</title>
+    <link>https://www.devmigration.com/tags/fastify/</link>
+    <description>Recent content in Fastify on DevMigration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Aug 2020 23:02:54 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.devmigration.com/tags/fastify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Express file structure (part 2)</title>
+      <link>https://www.devmigration.com/article/express-file-structure/</link>
+      <pubDate>Sun, 09 Aug 2020 23:02:54 -0400</pubDate>
+      
+      <guid>https://www.devmigration.com/article/express-file-structure/</guid>
+      <description>Welcome back to part two of our Express tutorial, in this part we are going to talk about express file structure and what exactly I mean by file structure. Also we will go over how to create a configuration file and use it to change to different environments of development.
+Express like many other NodeJS backend frameworks like restify, fastify, etc. Don’t really come with a file structure that we have to follow, you can structure your backend application any way you like but for the purpose of this journey we will use a MVC design pattern.</description>
+    </item>
+    
+  </channel>
+</rss>

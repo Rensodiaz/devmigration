@@ -3,7 +3,9 @@ title: "Favicon, adding identity to your web application"
 date: 2020-08-06T23:02:54-04:00
 author: "Renso Diaz"
 draft: false
- 
+
+categories: ['Articles']
+
 tags: ['favicon', 'Angular']
  
 noSummary: false

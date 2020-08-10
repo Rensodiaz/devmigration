@@ -9,6 +9,8 @@ tags: ['favicon', 'Angular']
 noSummary: false
  
 resizeImages: false
+
+categories: ['Articulos']
 ---
  
 Favicon no es muy notable pero si eres como yo, te daras cuenta de que resalta bastante cuando tienes muchos tabs abiertos en tu browser. Algunos frameworks como Angular ya vienen con favicon activado pero que tal si queremos cambiarlo por nuestro propio icono.

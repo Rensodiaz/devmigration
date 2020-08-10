@@ -1,0 +1,421 @@
+
+  
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Renso Diaz">
+    <meta name="description" content="Blog designed to help others.">
+    <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
+    <meta name="generator" content="Hugo 0.74.3" />
+    <title>
+        
+           
+               Express file structure (part 2) &vert; DevMigration
+           
+        
+    </title>
+    <meta name="description" content="Express file structure (part 2) - Blog designed to help others.">
+    <meta itemprop="name" content="Express file structure (part 2)">
+    <meta itemprop="description" content="Express file structure (part 2) - Blog designed to help others.">
+    <meta property="og:title" content="Express file structure (part 2)">
+    <meta property="og:description" content="Express file structure (part 2) - Blog designed to help others.">
+    <meta property="og:image" content="https://www.gravatar.com/avatar/8c07609ead6606790b3d7252b6ef032e?size=200">
+    <meta property="og:url" content="https://www.devmigration.com/article/express-file-structure/">
+    <meta property="og:site_name" content="DevMigration">
+    <meta property="og:type" content="article">
+
+    
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+    
+    <link href="/article/express-file-structure/" rel="alternate" type="application/rss+xml" title="DevMigration" />
+    <link href="/article/express-file-structure/" rel="feed" type="application/rss+xml" title="DevMigration" />
+    
+
+    
+
+    <link rel="stylesheet" href="https://www.devmigration.com/theme.css">
+
+    
+
+    
+    
+    
+</head>
+
+<body class="bilberry-hugo-theme">
+
+    
+    <nav>
+
+    <div class="container">
+        <ul class="topnav">
+            
+            
+            <li><a href="https://www.devmigration.com/page/about-me/">About Me</a></li>
+            
+            
+            
+            <li><a href="https://github.com/rensodiaz" target="_blank">Github</a></li>
+            
+            
+        </ul>
+
+        
+    </div>
+</nav>
+
+
+    
+<header>
+
+    <div class="container">
+        <div class="logo">
+            <a id="siteBaseUrl" href="/" class="logo">
+                
+                <img src="/devmigration-logo.png" alt="">
+                
+
+                <span class="overlay"><i class="fa fa-home"></i></span>
+            </a>
+        </div>
+        <div class="titles">
+            <h3 class="title"><a
+                    href="/">DevMigration</a></h3>
+            
+            <span class="subtitle">Blog designed to help others.</span>
+            
+        </div>
+
+        <div class="languages">
+        
+            
+                <a href="https://www.devmigration.com/" class="active">en</a>
+            
+        
+            
+                <a href="https://www.devmigration.com/es/">es</a>
+            
+        
+        </div>
+        
+
+        
+            <div class="toggler">
+                
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </div>
+        </div>
+</header>
+
+
+    <div class="main container">
+        
+    <div class="article-wrapper u-cf single">
+        
+            <a class="bubble" href="https://www.devmigration.com/article/express-file-structure/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://www.devmigration.com/article/express-file-structure/">
+            Express file structure (part 2)
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2020-08-09</span>
+            
+        
+
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://www.devmigration.com/categories/articles/">Articles</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://www.devmigration.com/author/renso-diaz/">Renso Diaz</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <p>Welcome back to part two of our Express tutorial, in this part we are going to talk about express file structure and what exactly I mean by file structure. Also we will go over how to create a configuration file and use it to change to different environments of development.</p>
+<p>Express like many other <strong>NodeJS</strong> backend frameworks like restify, fastify, etc. Don’t really come with a file structure that we have to follow, you can structure your backend application any way you like but for the purpose of this journey we will use a MVC design pattern.</p>
+<pre><code>- Model View Controller(MVC).
+- Configuration file.
+</code></pre><p><strong>MVC</strong></p>
+<p>Model View Controller(MVC) is a design pattern used to separate the business logic of your application into sections. This pattern is commonly used in the software industry because it is quite easy to understand and very straightforward, now let’s talk about each of the sections.</p>
+<p><strong>Model</strong>: The model only helps us to structure the data, no logic should be implemented in these files.</p>
+<p><strong>View</strong>: Help us to present data from the Models to the user, it doesn’t know what it means or what the user can do to manipulate the data.</p>
+<p><strong>Controller</strong>: They act as middlemen between the views and the models by handling events triggered by the views. Logic of what to do after an event is triggered is handled here and the process to automatically reflect such changes on the view.</p>
+<p><strong>Directories creation</strong></p>
+<p>In part one we created a folder for our application call <strong>mywebapp</strong>. Inside our root folder we should create two folders that will represent our MVC pattern but remember this is a backend application and the view directory is not going to be used for now. Because we will make a simple application our <strong>controllers</strong> directory will be replace for <strong>Routes</strong>:</p>
+<pre><code>mkdir models
+mkdir routes
+</code></pre><p>Now that we have an understanding of our file structure let’s move on to how to create multiple development environments. Don’t worry if you don&rsquo;t see the benefits of using this design pattern right now, we will slowly pick up while we build our full application.</p>
+<p><strong>Creating multiple environments</strong></p>
+<p>Working with multiple environments sounds a bit tedious but is not. The good thing about this is that it allows you to set local values to run your application in your local environment and at the same time allows you to transition to production without changing anything.</p>
+<p>Let’s start by creating a configuration file:</p>
+<pre><code>touch config.js
+</code></pre><p>Open the newly created file and add the following lines:</p>
+<pre><code>module.exports = {
+  ENV: process.env.NODE_ENV || 'development',
+  PORT: process.env.PORT || 4040
+}
+</code></pre><p>As you can see we create an object with two variables for now but notice that we can add more variables as we see fit, for now we will focus on the <strong>ENV</strong> and <strong>PORT</strong>. When you run a node application it automatically look for process environment variable and if they aren’t present it take the default value that we gave them, in this case our default values are <strong>development</strong> and <strong>4040</strong> for the port.</p>
+<p>Edit the <strong>index.js</strong> file that we created in the first part of the series:</p>
+<p><img src="port-without-config.png" alt=""></p>
+<p>In the first part of the journey we added a <strong>Port</strong> variable how is shown in the image above, we will edit the <strong>index.js</strong> file by importing our config file, removing the port variable and use the port variable from our config file, your application should look something like this:</p>
+<pre><code>const express = require('express');
+const app = express();
+const config = require('./config');
+
+
+app.get('/', (req, res, next)=&gt;{
+  res.send(&quot;Welcome to the world!&quot;);
+});
+
+app.listen(config.PORT, ()=&gt;{
+  console.log(`Listening in port: ${config.PORT}`);
+});
+
+</code></pre><p>If you follow everything along the lines your application should run in the original port without any issues.</p>
+<pre><code>npm start
+</code></pre><p><strong>Conclusion</strong></p>
+<p>In this lesson we talk about design patterns and environment variables, don’t get overwhelmed by this term we will get all of them slowly. In the next lesson we will talk more about <strong>imports</strong> and <strong>modules</strong>.</p>
+
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://www.devmigration.com/tags/express/">express</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.devmigration.com/tags/nodejs/">Nodejs</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.devmigration.com/tags/restify/">Restify</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.devmigration.com/tags/fastify/">Fastify</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.devmigration.com/tags/mvc/">MVC</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="https://www.devmigration.com/es/article/express-file-structure/">es</a>
+            
+        </div>
+    </div>
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        <div id="comments-container">
+            <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "devmigration" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            
+
+        </div>
+    
+
+    </div>
+
+    
+<footer>
+    <div class="container">
+
+        
+        <div class="recent-posts">
+            <strong>Latest posts</strong>
+            <ul>
+                
+                <li>
+                    <a href="https://www.devmigration.com/link/how-apple-came-tobe/">HOW APPLE CAME TO BE</a>
+                </li>
+                
+                <li>
+                    <a href="https://www.devmigration.com/article/express-file-structure/">Express file structure (part 2)</a>
+                </li>
+                
+                <li>
+                    <a href="https://www.devmigration.com/article/change-fav-icon/">Favicon, adding identity to your web application</a>
+                </li>
+                
+                <li>
+                    <a href="https://www.devmigration.com/article/express-first-app/">Express for beginners (part 1)</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        
+        <div class="categories">
+            <a href="/categories/"><strong>Categories</strong></a>
+            <ul>
+                
+                <li>
+                    <a href="/categories/articles">Articles
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/link">Link
+                        (1)</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="right">
+            
+            <div class="external-profiles">
+                <strong>Social media</strong>
+
+                
+                <a href="https://www.facebook.com/devmigration" target="_blank"><i class="fab fa-facebook"></i></a>
+                
+                <a href="https://twitter.com/devmigration" target="_blank"><i class="fab fa-twitter"></i></a>
+                
+                <a href="https://github.com/rensodiaz" target="_blank"><i class="fab fa-github"></i></a>
+                
+                <a href="https://www.instagram.com/devmigration" target="_blank"><i class="fab fa-instagram"></i></a>
+                
+            </div>
+            
+
+            <div class="languages">
+                <strong>Other languages</strong>
+                
+                
+                <a href="https://www.devmigration.com/" class="active">en</a>
+                
+                
+                
+                <a href="https://www.devmigration.com/es/">es</a>
+                
+                
+            </div>
+            
+        </div>
+    </div>
+</footer>
+
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="https://github.com/rensodiaz" target="_blank">
+                &copy;
+                
+                2020
+                
+                by Renso Diaz
+            </a>
+            
+        </div>
+        <div class="author">
+            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
+                target="_blank">Bilberry Hugo Theme</a>
+        </div>
+    </div>
+</div>
+
+
+    
+
+    
+
+
+    <script type="text/javascript" src="https://www.devmigration.com/theme.js"></script>
+
+    
+    
+    
+
+    
+
+
+</body>
+
+</html>

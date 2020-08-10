@@ -9,6 +9,8 @@ tags: ['express', 'Nodejs', 'Pug', 'Ejs', 'JWT', 'Mongodb', 'postgreSQL']
 noSummary: false
 
 resizeImages: false
+
+categories: ['Articulos']
 ---
 
 
@@ -59,6 +61,11 @@ Inicializamos nuestra aplicación usando NPM(Manejador de Paquetes para Node), e
 npm init
 ```
 
+Abrimos el archivo **package.json** y agregamos la siguiente línea dentro de la section **scripts**:
+```
+“start”: “node index.js”
+```
+
 **Instalacion de Express:**
 ```
 npm install express --save
@@ -107,7 +114,5 @@ http://localhost:4040
 **Conclusión**
 
 Esto es lo mínimo requerido para crear una aplicación web con [**Node.js**](https://nodejs.org/en/) y [**Express**](https://expressjs.com/). En la próxima parte tendremos la oportunidad de profundizar en la estructura de los archivos y configuración de otros entornos de desarrollo.
-
-
 
 

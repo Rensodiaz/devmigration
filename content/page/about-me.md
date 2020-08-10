@@ -8,7 +8,7 @@ tags: ['Developer', 'technology', 'web', 'Android']
 showComments: false
 ---
  
-Software engineer, gamer, passionate about technology and family oriented. If you have any questions about any of the posts in this blog and would like some help send me an email or post your comments. Here are some of my personal projects and others that I've had the pleasure to contributed.
+Software engineer, gamer and passionate about technology. If you have any questions about any of the posts in this blog and would like some help send me an email or post your comments. Here are some of my personal projects and others that I've had the pleasure to contributed.
  
 - Native Android applications:
    - [`Quick bills reminder`](https://some.com)
