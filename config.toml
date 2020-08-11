@@ -115,7 +115,7 @@ disqusShortname = "devmigration"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://www.facebook.com/devmigration", icon = "fab fa-facebook"},
+      { link = "fb.me/devmigrationpage", icon = "fab fa-facebook"},
       { link = "https://twitter.com/devmigration", icon = "fab fa-twitter" },
       { link = "https://github.com/rensodiaz", icon = "fab fa-github" },
       { link = "https://www.instagram.com/devmigration", icon = "fab fa-instagram"}
