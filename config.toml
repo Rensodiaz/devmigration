@@ -114,6 +114,7 @@ disqusShortname = "devmigration"
     # define your links with FontAwesome 5 (only free icons are supported)
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
+    # social stuff here
     socialMediaLinks = [
       { link = "fb.me/devmigrationpage", icon = "fab fa-facebook"},
       { link = "https://twitter.com/devmigration", icon = "fab fa-twitter" },
