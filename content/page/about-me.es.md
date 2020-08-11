@@ -11,8 +11,8 @@ showComments: false
 Ingeniero de Software apasionado por la tecnología. Me gusta leer y aprender diferentes ideas de desarrollo, esa es la razón por la cual este blog fue creado. Si tienes algunas preguntas sobre los tópicos tratados en el blog y necesitas ayuda envíame un email o escribe un comentario. Aqui les dejos algunos de mis proyectos personales entre otros que e tenido el placer de contribuir.
  
 - Applicaciones nativas para Android:
-   - [`Quick bills reminder`](https://some.com)
-   - [`Today I learn`](https://some.com)
+   - [`Quick bills reminder`](https://play.google.com/store/apps/details?id=com.billsremind)
+   - [`Today I learn`](https://play.google.com/store/apps/details?id=com.todayilearned)
  
  
 **[Más información sobre otros proyectos visitame en Github](https://github.com/rensodiaz)**

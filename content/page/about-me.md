@@ -11,8 +11,8 @@ showComments: false
 Software engineer passionate about technology. If you have any questions about any of the posts in this blog and would like some help send me an email or post your comments. Here are some of my personal projects and others that I've had the pleasure to contributed.
  
 - Native Android applications:
-   - [`Quick bills reminder`](https://some.com)
-   - [`Today I learn`](https://some.com)
+   - [`Quick bills reminder`](https://play.google.com/store/apps/details?id=com.billsremind)
+   - [`Today I learn`](https://play.google.com/store/apps/details?id=com.todayilearned)
  
  
 **[Further information about other projects visit Github](https://github.com/rensodiaz)**
