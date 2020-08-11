@@ -122,6 +122,7 @@ disqusShortname = "devmigration"
       { link = "https://www.instagram.com/devmigration", icon = "fab fa-instagram"}
     ]
 
+
     # credits line configuration
     copyrightBy = "by Renso Diaz"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
