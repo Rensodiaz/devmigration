@@ -6,7 +6,7 @@ draft: false
 
 categories: ['Articles']
 
-tags: ['favicon', 'Angular']
+tags: ['favicon', 'Angular', 'HTML']
  
 noSummary: false
  

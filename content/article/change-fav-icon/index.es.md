@@ -4,7 +4,7 @@ date: 2020-08-06T23:02:54-04:00
 author: "Renso Diaz"
 draft: false
  
-tags: ['favicon', 'Angular']
+tags: ['favicon', 'Angular', 'HTML']
  
 noSummary: false
  
