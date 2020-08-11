@@ -111,7 +111,6 @@ disqusShortname = "devmigration"
     # social media profile urls for the footer links
     showSocialMedia = true
 
-
     # define your links with FontAwesome 5 (only free icons are supported)
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
