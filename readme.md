@@ -1,8 +1,6 @@
 # DevMigration
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.devmigration.com/)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.devmigration.com/)
+[![N|Solid](https://github.com/Rensodiaz/devmigration/blob/master/static/powered-devmigration-blue.png)](https://www.devmigration.com/)
 
 DevMigration is a Blog designed to help others using [**Hugo**](https://gohugo.io/) to read interesting articles and comment on the topics posted on the Blog. There are differents types/categories of posts:
 
