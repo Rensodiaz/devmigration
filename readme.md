@@ -1,6 +1,8 @@
 # DevMigration
 
-[![N|Solid](https://github.com/Rensodiaz/devmigration/blob/master/static/powered-devmigration-blue.png)](https://www.devmigration.com/)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.devmigration.com/)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.devmigration.com/)
 
 DevMigration is a Blog designed to help others using [**Hugo**](https://gohugo.io/) to read interesting articles and comment on the topics posted on the Blog. There are differents types/categories of posts:
 
@@ -32,12 +34,14 @@ link: "https://www.some-website.com"
 ---
 Por Renso Diaz.
 ```
-When you created a link type of post as you can see from the **MD** above, you have multiple properties that are on top of the body of your post wrap in six hyphen "--- ---", This are some of them but you can go into more depth with Hugo into how these are made:
+When you created a link type of post as you can see from the **MD** above, you have multiple properties that are on top of the body of your post wrap in six hyphen " --- ---", This are some of them but you can go into more depth with Hugo into how these are made:
 
-  - Title: Name on your post and how you want people to read it.
-  - Date: When was your article created.
-  - Draft: when working with Hugo you can tell if this article is done to be shown or not by using this property, If this property is set to true this article won't be shown to when you upload your content.
-  - Categories: every post on this theme uses a category tag to help you organize all the post that you are going to be uploading.
-  - Tags: Tags will help you give the reader an idea of what are some of the important words that you are using in your post.
-  - Link: This property helps us to let the theme know what type of post we want to display and structure itself as it should.
+  - **Title**: Name on your post.
+  - **Date**: When was your article created.
+  - **Draft**: when working with Hugo you can tell if this article is done to be shown or not by using this property, If this property is set to true this article won't be shown to when you upload your content.
+  - **Categories**: Every post on this theme use a category tag to help you organize all the post that you are going to be uploading.
+  - **Tags**: Tags will help you give the reader an idea of what are some of the important words that you are using in your post.
+  - **Link**: This property helps us to let the theme know what type of post we want to display and structure itself as it should.
+  - **Body**: Here you can add your paragraphs, images, tables. Etc.
+
 
