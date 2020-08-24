@@ -1,12 +1,12 @@
 ---
-title: "EL NACIMIENTO DE APPLE"
-date: 2020-08-09T23:02:54-04:00
+title: "Alquitectura del Nintendo DS"
+date: 2020-08-17T23:02:54-04:00
 draft: false
 
 categories: ['Enlaces']
-tags: ['Apple']
+tags: ['Nintendo','Juegos', 'Consola']
 
 # Set your external url
-link: "https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php"
+link: "https://www.copetti.org/projects/consoles/nintendo-ds/"
 ---
-Por Stephen Wozniak.
+Por Rodrigo Copetti.
