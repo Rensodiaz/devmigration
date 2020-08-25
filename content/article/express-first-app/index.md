@@ -2,7 +2,7 @@
 title: "Express for beginners (part 1)"
 date: 2020-07-30T23:02:54-04:00
 author: "Renso Diaz"
-draft: true
+draft: false
 
 tags: ['express', 'Nodejs', 'Pug', 'Ejs', 'JWT', 'Mongodb', 'postgreSQL']
 
