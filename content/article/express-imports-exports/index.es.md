@@ -1,42 +1,64 @@
 ---
-title: "Imports (part 3)"
-date: 2020-08-22T23:02:54-04:00
+title: "Imports (parte 3)"
+date: 2020-08-23T23:02:54-04:00
 author: "Renso Diaz"
-draft: true
+draft: false
 
-tags: ['Express', 'Nodejs', ‘Exports’, ‘Imports’, ‘Javascript’]
+tags: [Express, Nodejs, Exports, Imports, Javascript, NPM]
 
 noSummary: false
 
+categories: ['Articulos']
+
 resizeImages: false
 ---
-When it comes to developing a web application with Node.js **Imports** play a very important role in the structure of our application. They help us to structure and restructure the application any way that we want. But also gave us the ability to use modules written by other people and integrate them into our application. In Fact you already did create one and use it, in our **Part 2** lesson when we created environment variables, If you don’t remember you can always go back to read the article. 
+Cuando hablamos sobre el desarrollo de aplicaciones web con Node.js los **Imports** juegan una parte bien importante al momento de crear nuestra aplicación. Los **Imports** nos ayudan a la estructuración y reestructuración de nuestra aplicación en cualquier forma que deseemos. Pero también nos ofrecen la facilidad de usar módulos creados por otras personas a la misma vez que los nuestros.
 
-One thing to get clear is that imports are strictly read only, no modification is allowed within the file that is importing it, if you need to modify the module that you are importing you will have to go inside that specific file and make the changes.
+Para estar más claros, ya hemos creado y usado un **Import** que nosotros mismo en la lección pasada cuando creamos variables de entorno. [**Parte 2**](https://www.devmigration.com/article/express-file-structure/) puedes volver y leer el artículo todas las veces que desees.
 
+Una cosa bien importante es que los **Import** son estrictamente de lectura, ningun tipo de modificación es permitido fuera del entorno del módulo que lo **Exporta**. Si necesitas modificar el módulo que quieres usar puedes abrir el archivo y modificarlo directamente.
 
-Now let’s see an import using **Javascript** and then we will see how does it change when using a framework like **Express**:
+Vamos a ver cómo se usan los imports con **Javascript** y luego como cambia al usar un framework como **Express**:
 
 ``` javascript
 import myModule from "path/to/module-name";
 ```
 
+Aparte de **import** and **from** en el ejemplo de arriba tenemos dos propiedades más que ayudan al entendimiento del código:
+   - **myModule**: Nombre de como quieres identificar tu módulo en el entorno en que estas.
+   - **module-name**: Localización y nombre donde está tu módulo.
 
-
-Let’s see an **import** in Express and define each of the parts:
+Imports en Express.js son un poco diferente en la sintaxis pero sus funcionalidades son las misma:
 ``` javascript
 const config = require('./config');
 ```
-We have been talking about imports but there is another important part that comes hand in hand when creating modules and that is **Exports**
 
-To start with **Exports** let’s use the module we created in **Part 2** called **Config.js** 
+Como podemos observar en Express.js usamos una variable tipo **const**, este tipo de variables no se pueden modificar una vez que su declaración se ha completado. Por lo tanto nuestra restricción de que los **Imports** son de modo lectura solamente sigue en pie.
+
+
+### Exports
+Nosotros hemos hablado sobre **Imports** pero otro punto muy importante que va de la mano con los imports son los **Exports**. Estos son los que nos ayudan a exportar nuestros módulos en nuestra aplicación.
+
+Para empezar con **Exports** usaremos el módulo que creamos en nuestra sesión anterior [**Parte 2**](https://www.devmigration.com/article/express-file-structure/) llamado **Config.js** 
 ``` javascript
 module.exports = {
    ENV: process.env.NODE_ENV || 'development',
    PORT: process.env.PORT || 4040
 }
 ```
-A one thing to noticed from the code above is **module.exports**
+También podemos usar variables y obtener el mismo resultado.
+``` javascript
+Const config = {
+   ENV: process.env.NODE_ENV || 'development',
+   PORT: process.env.PORT || 4040
+}
+module.exports = config
+```
+
+Una de las cosas que podemos notar en el código de arriba es **module.exports**, con esta propiedad le dejamos saber al entorno padre que queremos usar este módulo en otros archivos y así él mantiene una referencia de cuáles módulos se pueden usar.
+
+En nuestra próxima lección hablaremos sobre módulos **NPM**, Donde veremos como se instalan y remueven módulos. También podremos ver como usar imports de los mismos módulos.
+
 
 
 
