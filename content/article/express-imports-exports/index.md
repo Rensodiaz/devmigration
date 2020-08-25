@@ -10,7 +10,7 @@ noSummary: false
 
 resizeImages: false
 ---
-When it comes to developing a web application with Node.js **Imports** play a very important role in the creation of our application. They help us to structure and restructure the application any way that we want. But also gave us the ability to use modules written by other people and integrate them into our application. 
+When it comes to developing a web application with Node.js **Imports** play a very important role in the creation of our application. They help us to structure and restructure the application any way that we want. But also gave us the ability to use modules written by other people and integrate them into our application.
 
 In Fact you already did create one and use it, in our [**Part 2**](https://www.devmigration.com/article/express-file-structure/) lesson when we created environment variables. If you don’t remember you can always go back to read the article.
 
